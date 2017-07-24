@@ -1,4 +1,5 @@
 # crawlers
+
 Some crawlers u know it:-)
 
 # crawl3 run help
@@ -11,4 +12,6 @@ Some crawlers u know it:-)
 
 4. 进入 crawl3 目录，运行命令：scrapy crawl rosi
 
-5. 没了
+# tips
+
+抓instagram，用了slash来抓取ajax后台渲染的内容。
